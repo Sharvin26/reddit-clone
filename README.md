@@ -5,13 +5,14 @@ Client:
 * NextJS
 * TypeScript
 * Graphql
-* URQL
+* Apollo Graphql Client
 * Formik
 * Chakra-ui
 
 API Server:
 * NodeJS
 * ExpressJs
+* TypeScript
 * Apollo Server Express
 * GraphQl
 * TypeORM ( Postgres SQL )
